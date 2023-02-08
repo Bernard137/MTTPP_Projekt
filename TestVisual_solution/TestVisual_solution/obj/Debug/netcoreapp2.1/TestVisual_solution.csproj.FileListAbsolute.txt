@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\TestVisual_solution.deps.json
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\TestVisual_solution.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\TestVisual_solution.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\TestVisual_solution.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\obj\Debug\netcoreapp2.1\TestVisual_solution.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\obj\Debug\netcoreapp2.1\TestVisual_solution.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\obj\Debug\netcoreapp2.1\TestVisual_solution.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\obj\Debug\netcoreapp2.1\TestVisual_solution.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\bin\Debug\netcoreapp2.1\TestVisual_solution.pdb
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\obj\Debug\netcoreapp2.1\TestVisual_solution.dll
+C:\Users\Korisnik\Desktop\Testiranje projekt\Beki\TestVisual\TestVisual_solution\TestVisual_solution\obj\Debug\netcoreapp2.1\TestVisual_solution.pdb
